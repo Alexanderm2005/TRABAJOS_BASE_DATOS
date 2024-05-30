@@ -18,6 +18,6 @@ FROM client
 GROUP BY (city)
   ```
   - Captura:
-<img src="./capturas/sentence01.png" alt="drawing" width="500"/>
+<img src="./captura/captura/Captura de pantalla (143).png" alt="drawing" width="500"/>
 
 
